@@ -11,3 +11,6 @@
 - Faster navigation to external links
 - Good to use on Instagram bio
 - Toggle to light or dark mode
+
+  ## About
+  I developed a clone of Linktree, a popular platform for organizing links and sharing multiple content in one place. Using HTML, CSS and JavaScript, I created a custom solution that offers flexibility and a unique touch to make your online presence stand out.
